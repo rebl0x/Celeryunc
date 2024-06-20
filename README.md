@@ -1,6 +1,7 @@
 # Celeryunc<br>
 Just provides around 41-44% extra UNC for (current) celery <br>
-[https://cdn.discordapp.com/attachments/1151545054410850437/1253457750994976810/image.png?ex=6675ecff&is=66749b7f&hm=621f4f0944952ec4e79d9ad4237d1e3bb8c01cd6e4be322ebc0f449dced5830a&] <br>
+![image](https://github.com/rebl0x/Celeryunc/assets/169552876/fb04b2c5-a225-4e6d-9af4-b413fe0173aa)
+ <br>
 
 **How to use**<br>
 1. Download both files<br>
