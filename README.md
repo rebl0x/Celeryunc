@@ -8,6 +8,8 @@ Just provides around 41-44% extra UNC for (current) celery <br>
 2. Make sure you have the python modules: Flash, os, json and shutil <br>
 When you want to run your code with the UNC script. Paste init.lua code **ABOVE YOUR CODE YOU WANT TO EXECUTE** <br>
 Just make sure you run the python file, it just allows the filesystem to work <br>
+In both files you wilkl have to add the path to the "workspace" folder in celery, either in temp or where the main exe is, i forgot.
+Should be like: C:\\User\\ProgramFiles\\Celery\\workspace\\ <br>
 
 **Credits** <br>
 <br>
