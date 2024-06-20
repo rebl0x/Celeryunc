@@ -8,7 +8,7 @@ When you want to run your code with the UNC script. Paste init.lua code **ABOVE 
 Just make sure you run the python file, it just allows the filesystem to work <br>
 
 **Credits** <br>
-_t38 Some functions, re-wroking UNC script <br>
-ihavegoodname orginal file system <br>
-cheetos alot of the functions and for orignal ideas <br>
+**_t38** Some functions, re-wroking UNC script <br>
+**ihavegoodname** orginal file system <br>
+**cheetos** alot of the functions and for orignal ideas <br>
 random mfs who gave me slightest motivation lmao <br>
